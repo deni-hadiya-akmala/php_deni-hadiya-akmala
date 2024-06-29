@@ -5,10 +5,6 @@ Repository ini berisi proyek PHP yang digunakan untuk keperluan screening web pr
 ## Deskripsi Proyek
 Proyek ini mencakup beberapa soal pemrograman yang menggunakan PHP dan MySQL. Setiap soal akan disimpan dalam folder terpisah dan mencakup file-file yang diperlukan untuk menyelesaikan soal tersebut.
 
-## Struktur Direktori
-- `soal_a/`: Folder untuk soal A
-- `soal_b/`: Folder untuk soal B
-
 ## Cara Menjalankan
 1. Clone repository ini:
    ```bash
