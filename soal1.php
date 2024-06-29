@@ -15,7 +15,6 @@ for ($a = $jml; $a > 0; $a--)
   {
     echo "<td>$b</td>";
   }
-
  
   echo "</tr>\n";
 }
